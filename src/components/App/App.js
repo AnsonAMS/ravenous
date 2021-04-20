@@ -1,9 +1,8 @@
-import logo from './logo.svg';
-import './component/App/App.css';
+import React from 'react';
+import logo from '../../logo.svg';
+import './App.css';
 
-// Solution by Codecademy
-// import React from 'react';
-// import './App.css';
+
 
 function App() {
   return (
